@@ -2,6 +2,8 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2511.16061-b31b1b.svg)](https://arxiv.org/abs/2511.16061)
 
+By Alex Ning and Vainateya Rangaraju
+
 ### Environment
 
 Install:
